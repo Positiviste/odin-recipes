@@ -1,5 +1,5 @@
 # odin-recipes
-#titre Really basic HTML exercise
+## Really basic HTML exercise
   
 There will be different steps.  
 1 - Create a basic structure. (this README.md & a boilerplate HTML for index.html)  
